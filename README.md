@@ -34,3 +34,5 @@
 1. http://service.qbjavawa.top/time/beautyOfDesignPatterns.html 《设计模式之美》
 2. http://lailin.xyz/ mohuishou博客
 3. https://juejin.cn/post/7095581880200167432 掘金
+4. https://github.com/tmrts/go-patterns tmrts/go-patterns
+
