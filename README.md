@@ -1,5 +1,5 @@
 # Go-Design-Patterns
-24 design patterns by golang
+23 design patterns by golang
 
 重新整理补充中
 
